@@ -19,7 +19,6 @@
  *        an empty string should be sent as a pet name.
  */
 
-import React from 'react';
 import { fakeSend } from '../lib/fake-send';
 
 const petKinds = [

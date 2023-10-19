@@ -3,7 +3,6 @@ import Task2 from "./tasks/Task2"
 import Task3 from "./tasks/Task3"
 import Task4 from "./tasks/Task4"
 
-
 function App() {
   const tasks = {
     'task1': <Task1 />,

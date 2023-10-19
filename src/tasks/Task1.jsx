@@ -23,7 +23,6 @@
  *              .then((data) => console.log(data))
  */
 
-import React from 'react';
 import { fakeSend } from '../lib/fake-send';
 
 export default function Task1() {
