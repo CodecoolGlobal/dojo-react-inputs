@@ -20,7 +20,6 @@
  * - https://react.dev/reference/react-dom/components/input#reading-the-input-values-when-submitting-a-form
  */
 
-import React from 'react';
 import { fakeSend } from '../lib/fake-send';
 
 export default function Task2() {
